@@ -1,3 +1,4 @@
+# Test code integration
 = Stripe Ruby bindings {<img src="https://gemnasium.com/stripe/stripe-ruby.png" alt="Dependency Status" />}[https://gemnasium.com/stripe/stripe-ruby]
 
 == Installation
